@@ -6,4 +6,5 @@ it has two table.
 stores and items
 stores shows the book  and price.
 item shows stationery product.
-github link : 
+github link : https://github.com/Honey23/Assignment1_Honey/tree/master
+azure link : 
